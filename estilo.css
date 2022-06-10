@@ -1,0 +1,66 @@
+body {
+	background-color: black;
+	display: flex;
+}
+
+header {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+}
+
+section {
+	display: flex;
+}
+
+div {/*---CADA DIV SERÁ "1 PEXEL" DE 12px X 12px----*/
+	width: 12px;
+	height: 12px;
+	background-color: white;
+}
+
+/*****CLASSES DE CORES****/
+
+.branco {
+	background-color: white;
+}
+
+.preto {
+	background-color: black;
+}
+
+.azul {
+	background-color: blue;
+}
+
+.vermelho {
+	background-color: red;
+}
+
+.caqui {
+	background-color: #FFDAB9;
+}
+
+/******HOVER NEGATIO******/
+
+
+div:hover{
+	background-color: black;
+}
+
+.preto:hover {
+	background-color: white;
+}
+
+.azul:hover {
+	background-color: red;
+}
+
+.vermelho:hover {
+	background-color: blue;
+}
+
+.caqui:hover {
+	background-color: green;
+}
+

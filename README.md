@@ -1,4 +1,7 @@
 # Sonic-Pixel-Art
+
+![sonic-pixelart](https://user-images.githubusercontent.com/107071638/181282095-4c64df68-4277-436b-9190-054351fd7f93.jpg)
+
 ## Sonic feito em Pixel Art, apenas utilizando HTML e CSS
 
 Depois que vi o vídeo da Attekita me senti inspirado em fazer algo de arte no CSS!
